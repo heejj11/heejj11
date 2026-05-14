@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=480&lines=HELLO+WORLD+✨;함께+만드는+제품을+좋아하는+개발자;5년차+프론트엔드+개발자+정희정입니다)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=480&lines=HELLO+WORLD+✨;함께+만드는+제품을+좋아하는+개발자;6년차+프론트엔드+개발자+정희정입니다)](https://git.io/typing-svg)
 
 <br/>
 
